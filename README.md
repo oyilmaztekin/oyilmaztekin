@@ -34,6 +34,7 @@ Previously also at **n11** and **Takasbank**.
 
 ### Elsewhere
 
+- Personal site — <https://oyilmaztekin.github.io/>
 - LinkedIn — <https://www.linkedin.com/in/oyilmaztekin/>
 - Frezpo on LinkedIn — <https://www.linkedin.com/company/frezpo-ai/>
 - Frezpo on X — <https://x.com/frezpoai>
