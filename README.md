@@ -1,7 +1,8 @@
 ## Özer Yılmaztekin
 
-Principal Engineer & Technical Customer Success Manager — İzmir, Türkiye.
-15 years building and shipping frontend platforms, build pipelines, and release tooling.
+15 years building systems other engineers depend on. Now designing multi-agent AI systems for production: agent state, context isolation, token cost, failure handling.
+
+I design and build production AI systems, mostly multi-agent pipelines where the hard part is the architecture rather than the prompt: how state moves between agents, how context stays isolated so token cost doesn't grow with every step, and how a bad model output fails at the handoff instead of corrupting the whole run.
 
 ### Currently building — [Frezpo](https://frezpo.com/)
 
@@ -15,11 +16,7 @@ gap, and it opens because the ads and the page get written by different people, 
 times, from different briefs.
 
 - Product — <https://frezpo.com/>
-- Pricing — <https://frezpo.com/pricing/>
-- For agencies — <https://frezpo.com/for-agencies/>
 - Interactive demo — <https://frezpo.com/stream-demo/>
-- Agent skills — <https://frezpo.com/skills/>
-- Project page — <https://oyilmaztekin.github.io/frezpo/>
 
 ### Selected work
 
@@ -36,5 +33,3 @@ Previously also at **n11** and **Takasbank**.
 
 - Personal site — <https://oyilmaztekin.github.io/>
 - LinkedIn — <https://www.linkedin.com/in/oyilmaztekin/>
-- Frezpo on LinkedIn — <https://www.linkedin.com/company/frezpo-ai/>
-- Frezpo on X — <https://x.com/frezpoai>
